@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![counter](https://[en4hwebkrqt7b6p].m.pipedream.net)
+![](https://komarev.com/ghpvc/?username=iamskp99&color=green)
 
-- 🔭 I’m currently working on a file conpression tool
+- 🔭 I’m currently working on a file compression tool
 - 🌱 I’m currently learning Computer Networks,Operating System and DBMS
 - 💬 Ask me about data structures and algorithms.
 - 📫 Reach me at iamskp99@gmail.com 
